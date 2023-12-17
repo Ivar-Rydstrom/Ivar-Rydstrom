@@ -1,6 +1,6 @@
 <h1 align = "center"><b>:bicyclist: Ivar Rydstrom</b></h1>
 
-<p align="center"><code>Hey, my name is Ivar! I'm a Physics, Math, and Computer Engineering student from Santa Clara University, originally from SoCal. Soon, I will be going to graduate school to pursue a Ph.D. in experimental particle astrophysics. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently, I do research at <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> in the Dark Matter and Quantum Information Science Group.</em></p>
+<p align="center"><code>👋 Hey, my name is Ivar! I'm a Physics, Math, and Computer Engineering student from Santa Clara University, originally from SoCal. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently, I do research at <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> in the Dark Matter and Quantum Information Science Group.</em></p>
 
 <br>
 <!--
