@@ -3,17 +3,21 @@
 <p align="center"><code>👀 Hey, my name is Ivar! I'm a Physics, Math, and Computer Engineering student from Santa Clara University, originally from SoCal. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently, I do research at <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> in the Dark Matter and Quantum Information Science Group. We make novel superconducting detectors that operate at milikelvin temperatures to search for Dark Matter.</em></p>
 
 <br>
-<!--
+
 <!-- ## Programming Languages -->
-<h3 align="center">Some languages I have experience in are:</h3>
+<h3 align="center">The languages I have the most experience with are:</h3>
 <p align="center">
-  <a href="https://github.com/Raymond-exe?tab=repositories&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white"></a>
-  <a href="https://github.com/Raymond-exe?tab=repositories&language=javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-limegreen?style=for-the-badge&logo=javascript&logoColor=white"></a>
-  <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white%22">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white%22">
+
+  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white">
+  
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
--->
+
 
 <br>
 
