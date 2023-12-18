@@ -5,15 +5,17 @@
 <br>
 
 <!-- ## Programming Languages -->
-<h3 align="center">The languages I have the most experience with are:</h3>
+<h3 align="center">I'm most experienced in:</h3>
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <br>
-  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+ 
   
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
