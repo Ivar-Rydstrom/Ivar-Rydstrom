@@ -22,11 +22,11 @@
   </p>
 
 
-<br>
 
 <!-- ## Technologies -->
 
 <!--
+<br>
 <h3 align="center">Software and hardware skills</h3>
 <p align="center">
   <a href="https://www.blender.org"><img alt="Blender 3D" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
