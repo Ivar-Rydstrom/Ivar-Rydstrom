@@ -1,4 +1,4 @@
-<h1 align = "center"><b>🌌 Ivar Rydstrom</b></h1>
+<h1 align = "center"><b>🌌Ivar Rydstrom</b></h1>
 
 <p align="center"><code>👀 Hey, my name is Ivar! I'm a Physics, Math, and Computer Engineering student from Santa Clara University, originally from SoCal. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently, I do research at <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> in the Dark Matter and Quantum Information Science (DMQIS) group. We make novel superconducting detectors that operate at milikelvin temperatures to search for Dark Matter.</em></p>
 
@@ -27,7 +27,7 @@
 <!-- ## Technologies -->
 
 <!--
-<h3 align="center">Software and hardware skills:</h3>
+<h3 align="center">Software and hardware skills</h3>
 <p align="center">
   <a href="https://www.blender.org"><img alt="Blender 3D" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
@@ -40,7 +40,7 @@
 <br>
 
 
-<p align="center">Find me on the following platforms</p>
+<h3 align="center">Find me on the following platforms</h3>
 <p align="center">
     <a href="https://Ivar-Rydstrom.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-41BDF5?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ivar-rydstrom/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
