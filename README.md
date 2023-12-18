@@ -8,8 +8,8 @@
 <h3 align="center">I'm most experienced in:</h3>
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-ffdb4f?style=for-the-badge&logo=Python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white">
   <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
