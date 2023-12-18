@@ -37,9 +37,6 @@
 </p>
 -->
 
-<br>
-
-
 <h3 align="center">Find me on the following platforms</h3>
 <p align="center">
     <a href="https://Ivar-Rydstrom.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-41BDF5?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white"></a>
