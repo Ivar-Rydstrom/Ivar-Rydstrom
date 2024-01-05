@@ -21,23 +21,8 @@
   
   </p>
 
-
-
-<!-- ## Technologies -->
-
-<!--
-<br>
-<h3 align="center">Software and hardware skills</h3>
-<p align="center">
-  <a href="https://www.blender.org"><img alt="Blender 3D" src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
-  <a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="https://threejs.org"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=three.js&logoColor=black"></a>
-  <a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"></a>
-  <a href="https://www.arduino.cc"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
-</p>
--->
-
-<h3 align="center">Find me on the following platforms</h3>
+<!-- Platforms -->
+<h3 align="center">Find me on the following platforms:</h3>
 <p align="center">
   <a href="https://Ivar-Rydstrom.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-41BDF5?style=for-the-badge&logo=airplayvideo&logoColor=white"></a>
   <a href="https://github.com/Ivar-Rydstrom"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
