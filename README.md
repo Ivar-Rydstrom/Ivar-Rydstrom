@@ -24,7 +24,7 @@
 <!-- Platforms -->
 <h3 align="center">Find me on the following platforms:</h3>
 <p align="center">
-  <a href="https://Ivar-Rydstrom.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-41BDF5?style=for-the-badge&logo=airplayvideo&logoColor=white"></a>
+  <a href="https://ivar.site"><img alt="Website" src="https://img.shields.io/badge/Website-41BDF5?style=for-the-badge&logo=airplayvideo&logoColor=white"></a>
   <a href="https://github.com/Ivar-Rydstrom"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ivar-rydstrom/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
