@@ -1,6 +1,6 @@
 <h1 align = "center"><b>🌌Ivar Rydstrom</b></h1>
 
-<p align="center"><code>👀 Hey, my name is Ivar! I'm a Physics, Math, and Computer Engineering student from Santa Clara University, originally from SoCal. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently, I do research at <a href='https://www6.slac.stanford.edu/'>SLAC National Accelerator Laboratory</a> in the Dark Matter and Quantum Information Science (DMQIS) group. We make novel superconducting detectors that operate at milikelvin temperatures to search for Dark Matter.</em></p>
+<p align="center"><code>👀 Hey, my name is Ivar! I'm a Physics PhD student from UC Berkeley, originally from SoCal. I was previously a Physics, Math, and CSE student from Santa Clara University. I love hands-on projects and making things. On the side, I race bikes competitively for <a href='https://www.instagram.com/tmbequator/'>Team Mike's Bikes Development</a>.</code><br><br><em>Currently in my research in Matt Pyle's group at UCB, I am involved in developing <a href='https://tesseract.lbl.gov/'>Tesseract</a>, an upcoming prototype dark matter experiment. We make world leading superconducting sensors that operate at milikelvin temperatures to search for Dark Matter.</em></p>
 
 <br>
 
